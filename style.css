@@ -1,0 +1,72 @@
+img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 100px 100px 100px 100px;
+}
+
+.nombre{
+    font-size: 300%;
+}
+
+
+.contenedor{
+
+    display: flex;
+
+}
+
+.ladoazul{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color : white;
+    background-color: rgb(2, 2, 46);
+    width:27% ;
+}
+
+h3{
+    text-align: center;
+}
+
+.letra2{
+
+    text-align: center;
+    background-color: rgb(2, 2, 46);
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    width: 40%;
+    
+}
+
+
+.ladoBlanco{
+    
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: rgb(255, 255, 255);
+    width:40%;
+    padding: 1%;
+
+  
+}
+.parrafo1{
+  
+    font-size:0.85em;
+    line-height:1.8em;
+
+}
+
+.parrafo2{
+    
+        font-size:0.85em;
+        line-height:1.8em;
+    
+    }
+
+
+
+.fa-solid {
+width: 10%;
+
+}
